@@ -1,0 +1,61 @@
+<div class="infogroup row">
+                            <div class="col-md-2">
+                            <label for="email"><b>Contact number :</b></label>
+                            </div>
+                            <div class="col-md-9">
+                                <p>01555555555</p>
+                            </div>
+                        </div>
+                        <div class="infogroup row">
+                            <div class="col-md-2">
+                            <label for="email"><b>Email :</b></label>
+                            </div>
+                            <div class="col-md-9">
+                                <p>example@gmail.com</p>
+                            </div>
+                        </div>
+                        <div class="infogroup row">
+                            <div class="col-md-2">
+                            <label for="email"><b>Education :</b></label>
+                            </div>
+                            <div class="col-md-9">
+                                <p>Dhaka University</p>
+                                <p>LLB</p>
+                                <p>2018</p>
+                            </div>
+                        </div>
+                        <div class="infogroup row">
+                            <div class="col-md-2">
+                            <label for="email"><b>Practising location :</b></label>
+                            </div>
+                            <div class="col-md-9">
+                                <p>54/2 Segun Bagicha</p>
+                                <p>Dhaka</p>
+                                <p>1200</p>
+                            </div>
+                        </div>
+                        <div class="infogroup row">
+                            <div class="col-md-2">
+                            <label for="email"><b>Practising length :</b></label>
+                            </div>
+                            <div class="col-md-9">
+                                <p>5-10 years</p>
+                            </div>
+                        </div>
+                        <div class="infogroup row">
+                            <div class="col-md-2">
+                            <label for="email"><b>Type of case handles:</b></label>
+                            </div>
+                            <div class="col-md-9">
+                                <p>Criminal matter</p>
+                                <p>Civil matter</p>
+                                <p>Writ Jurisdiction</p>
+                                <p>Example</p>
+                                <p>Example</p>
+                            </div>
+                        </div>  
+                        <div class="row">
+                            <div class="col">
+                                <button type="submit" class="btn btn-lg btn-info">Book Appointment</button>
+                            </div>
+                        </div>

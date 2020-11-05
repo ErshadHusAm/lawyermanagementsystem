@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    height: 100% !important;
+}
+
+body {
+    display: flex !important;
+    min-height: 100% !important;
+    flex-direction: column;
+}
+
+.customnav{
+    background-color: #040000;
+    height: 100px;
+}
+.customnav a{
+    
+    margin: 10px 10px;
+}
+.cus-a{
+    color: white !important;
+}
+.banner{
+    background-image: url(../images/bannerimg.jpg);
+    height: 400px;
+    background-size: cover;
+}
+
+.banner_content{
+    text-align: center;
+    color: white;
+    margin: 100px;
+}
+
+.cusbutton{
+    margin: 20px;
+    padding: 20px;
+    background: transparent;
+    color: white;
+    border: 2px solid black;
+}
+.cusbutton:hover{
+    padding: 30px;
+    
+}
+
+.lawyerscard{
+    margin: 30px 0px;
+    
+}
+
+.cusimg{
+    height: 185px;
+}
+
+
+.aboutus h2{
+   margin-top: 40px;
+}
+.aboutus h4{
+    margin-top: 25px;
+}
+
+footer{
+    margin-top: auto;
+    background-color: black;
+    color: white;
+}
+footer h5{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+.registerform{
+    margin: 50px 0px;
+}
+.registerform h1{
+    margin: 100px 0px;
+}
+
+.cusform{
+    margin-top: 50px;
+}
+.cusbookingtable{
+    width: 600px;
+}
+.cusblack{
+    color: black;
+}
+.bookingrqst{
+    margin: 50px;
+}
+.scontent{
+    margin-top: 30px;
+}
+.profile_img{
+    width: 150px;
+    height: 150px;
+    border-radius: 75px;
+    border: 2px solid black;
+    margin: 20px 0px;
+    
+}
+.mainprofile{
+    margin: 50px 0px;
+}
+.aboutusform{
+    margin: 30px;
+}
